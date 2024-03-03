@@ -4,10 +4,9 @@ description: Proyecto final de calculadora y conversora
 remote_theme: rundocs/Hamilton
 
 plugins:
-  
-jemoji
-jekyll-avatar
-jekyll-mentions
-jekyll-feed
-jekyll-include-cache
-jekyll-remote-theme
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
