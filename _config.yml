@@ -1,0 +1,13 @@
+title: Calculadora Cientifica/Converión
+lang: es
+description: Proyecto final de calculadora y conversora
+remote_theme: rundocs/Ultra-Minimalista
+
+plugins:
+  
+jemoji
+jekyll-avatar
+jekyll-mentions
+jekyll-feed
+jekyll-include-cache
+jekyll-remote-theme
