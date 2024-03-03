@@ -1,7 +1,7 @@
 title: Calculadora Cientifica/Converión
 lang: es
 description: Proyecto final de calculadora y conversora
-remote_theme: rundocs/Hamilton
+remote_theme: pages-themes/merlot@v0.2.0
 
 plugins:
   - jemoji
@@ -9,4 +9,4 @@ plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-remote-theme
+  - jekyll-remote-them
